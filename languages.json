@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "languages": {
     "af": { "label": "Afrikaans", "flag": "za" },
     "sq": { "label": "Albanian", "flag": "al" },
@@ -110,6 +110,7 @@
     "xh": { "label": "Xhosa", "flag": "za" },
     "yi": { "label": "Yiddish", "flag": "il" },
     "yo": { "label": "Yoruba", "flag": "ng" },
-    "zu": { "label": "Zulu", "flag": "za" }
+    "zu": { "label": "Zulu", "flag": "za" },
+    "qu": { "label": "Quechua", "flag": "pe" }
   }
 }
