@@ -1,1 +1,10 @@
-
+[
+  {
+  "id": "Animated Text Limitation",
+  "date": "2026-02-08T11:48:24.539Z",
+  "message": "Nebulang does not translate animated text correctly when the animation reveals content character-by-character or word-by-word. These animations split the text into multiple <span> elements, causing the translator to treat each fragment as a separate element and translate it literally. To avoid this issue, apply the text animation with the \"Element\" option enabled, so the text remains a single DOM element.",
+  "icon": "info",
+  "severity": "warning",
+  "actions": []
+  }
+]
