@@ -6,5 +6,18 @@
   "icon": "info",
   "severity": "warning",
   "actions": []
+  },
+  {
+  "id": "Nebulang Documentation Released",
+  "date": "2026-02-08T11:48:24.539Z",
+  "message": "The complete Nebulang documentation is now available. It includes installation steps, configuration options, usage examples, known limitations, and best practices to help you get the most out of the plugin.",
+  "icon": "menu_book",
+  "severity": "info",
+  "actions": [
+    {
+      "label": "View Documentation",
+      "url": "https://nebulapps.com.br/docs/nebulang-instant-translate"
+    }
+  ]
   }
 ]
